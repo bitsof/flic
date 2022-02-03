@@ -1,13 +1,32 @@
 # flic
 
 ### Plan
+
+
+### Views
+- Main Page
+- Top Movies
+- Movie Reviews
+- Movie Recommendations
+- Contacts
+
+### Main Page
 - top banner 
-- advertisement
 - BEST MOVIES By SHANE.CO
-- Advertisement
 - Display top 10 
 - LATEST UPDATES 
 - Testimonials 
-- Call to action 
-- Contact Info 
-- ADVERTISMENT 
+
+### Top Movies
+- top banner
+- Movie list
+- see more...
+
+### Movie REviews
+- top banner
+- SHANE.CO reviews
+
+### Contacts
+- top banner
+- team info
+- email contact box
