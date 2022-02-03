@@ -11,22 +11,22 @@
 - Contacts
 
 ### Main Page
-- top banner 
+- Top Banner 
 - BEST MOVIES By SHANE.CO
-- Display top 10 
+- Display Top 10 
 - LATEST UPDATES 
 - Testimonials 
 
 ### Top Movies
-- top banner
-- Movie list
-- see more...
+- Top Banner
+- Movie List
+- See More...
 
-### Movie REviews
-- top banner
-- SHANE.CO reviews
+### Movie Reviews
+- Top Banner
+- SHANE.CO Reviews
 
 ### Contacts
-- top banner
-- team info
-- email contact box
+- Top Banner
+- Team Info
+- Email Contact Box
