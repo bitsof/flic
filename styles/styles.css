@@ -22,11 +22,26 @@
 
 /* Style the content */
 .content {
-  padding-left: 10%;
-  padding-right: 33%;
+  padding-left: 5%;
+  padding-right: 10%;
+  padding-top: 32px;
+  padding-bottom: 2%;
+  text-align: justify;
   background-color: #ddd;
-  padding: 10px;
 }
+
+.date {
+  font-size: 14px;
+  font-style: italic;
+}
+
+.subject {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
 
 /* Style the footer */
 .footer {
