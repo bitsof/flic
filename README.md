@@ -1,32 +1,9 @@
-# flic
+# flic - A Personal Website for Film Reviews
 
 ### Plan
+Hello folks! What we are going for here is a simple website which displays letterboxd reviews!
 
-
-### Views
-- Main Page
-- Top Movies
-- Movie Reviews
-- Movie Recommendations
-- Contacts
-
-### Main Page
-- Top Banner 
-- BEST MOVIES By SHANE.CO
-- Display Top 10 
-- LATEST UPDATES 
-- Testimonials 
-
-### Top Movies
-- Top Banner
-- Movie List
-- See More...
-
-### Movie Reviews
-- Top Banner
-- SHANE.CO Reviews
-
-### Contacts
-- Top Banner
-- Team Info
-- Email Contact Box
+Main architecture is as follows:
+- AWS hosted website
+- Contents of this repo is immediately hosted to the website
+- Website includes reviews scrapped from Shane.Co's letterboxd reviews
