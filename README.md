@@ -1,5 +1,7 @@
 # flic - A Personal Website for Film Reviews
 
+[Github Pages URL](https://bitsof.github.io/flic/)
+
 ### Plan
 Hello folks! What we are going for here is a simple website which displays letterboxd reviews!
 
