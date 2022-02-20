@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flic/static/css/main.e94b1032.css",
+    "main.js": "/flic/static/js/main.7cf04253.js",
+    "static/js/787.e9037262.chunk.js": "/flic/static/js/787.e9037262.chunk.js",
+    "index.html": "/flic/index.html",
+    "main.e94b1032.css.map": "/flic/static/css/main.e94b1032.css.map",
+    "main.7cf04253.js.map": "/flic/static/js/main.7cf04253.js.map",
+    "787.e9037262.chunk.js.map": "/flic/static/js/787.e9037262.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e94b1032.css",
+    "static/js/main.7cf04253.js"
+  ]
+}
